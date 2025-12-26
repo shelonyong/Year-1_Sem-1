@@ -15,4 +15,6 @@ Chapter 9: Shift Registers<br>
 
 
 ### 💭 Reflection
-Digital Logic is a fundamental subject that builds a strong foundation in computer science course. In this course, 
+**Digital Logic** is a fundamental subject that introduces students to the principles of digital electronics as the basis for microprocessor-based systems in computers, robots, automobiles, and industrial control applications. Throughout this course, I have learned how to design and analyze digital circuits systematically. The assignments and practical exercises allowed me to apply theoretical concepts in real-world circuit design, improving my understanding of how logical operations are implemented in hardware. These topics also enhanced my analytical and problem-solving skills while designing digital circuits. 
+
+In my opinion, increasing hands-on laboratory sessions would help us understand the practical applications of digital logic more effectively. I hope that more hands-on laboratory sessions will be held in the future.
