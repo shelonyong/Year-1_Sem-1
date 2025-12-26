@@ -1,6 +1,6 @@
 # SECP1513 Technology And Information System
 
-👨🏻‍🏫**Lecturer:** Dr. Aryati Binti Bakri
+👩🏻‍🏫**Lecturer:** Dr. Aryati Binti Bakri
 
 ### 📑 Topics
 Chapter 1: Emerging Technology in ICT<br>
