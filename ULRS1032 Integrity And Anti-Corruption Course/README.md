@@ -16,5 +16,8 @@ Chapter 10: Laporkan Rasuah, Langkah Pencegahan Dan Inisiatif Kerajaan<br>
 Chapter 11: Institusi Sosial Dalam Pembudayaan Integriti Dan Antirasuah
 
 ### 💭 Reflection
-Integrity And Anti-Corruption is a fundamental subject that builds a strong foundation in computer science course. In this course, 
+**Integrity And Anti-Corruption** has given me a deeper understanding of the importance of ethics, integrity, and transparency in both personal and professional life. In Malaysia, corruption is unfortunately very common and can be observed in many areas of daily life. For example, bribery may occur in certain government services, procurement processes, or even in private sectors. Reports of misuse of public funds, nepotism, and unethical business practices also highlight the importance of integrity. After understanding these real-world issues, I have become more aware of the role I can play in promoting ethical behavior. Through this course, I realized that corruption, this bad habit, has negatively impacted the development of our country. As a result, I have learned how to recognize corrupt practices and take steps to prevent them in real-life situations.
 
+In my opinion, the course could be improved by including more interactive activities, such as group discussions, role-playing scenarios, or debates on ethical dilemmas. These activities would allow students to practice applying integrity and anti-corruption principles in practical situations.
+
+Overall, the Integrity and Anti-Corruption course has been valuable in shaping my understanding of ethics and integrity, strengthening my moral judgment, and preparing me to act responsibly and ethically in  academic environment. I hope that, over time, this harmful habit of corruption can be reduced and eventually removed from our country.
