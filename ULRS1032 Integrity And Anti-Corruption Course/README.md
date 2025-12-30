@@ -21,3 +21,7 @@ Chapter 11: Institusi Sosial Dalam Pembudayaan Integriti Dan Antirasuah
 In my opinion, the course could be improved by including more interactive activities, such as group discussions, role-playing scenarios, or debates on ethical dilemmas. These activities would allow students to practice applying integrity and anti-corruption principles in practical situations.
 
 Overall, the Integrity and Anti-Corruption course has been valuable in shaping my understanding of ethics and integrity, strengthening my moral judgment, and preparing me to act responsibly and ethically in  academic environment. I hope that, over time, this harmful habit of corruption can be reduced and eventually removed from our country.
+
+### Video
+https://youtu.be/TKPiOULXgkM?si=L7pZY-k9GiUasRtA
+
